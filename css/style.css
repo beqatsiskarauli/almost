@@ -1,0 +1,386 @@
+.bg{
+	background-image: url(../img/cover5.jpg);
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.nav-link{
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	margin-left: 130px;
+}
+.logo{
+	width: 130px;
+	height: 130px;
+	opacity: 0.9;
+}
+@media(max-width: 1035px){
+	.nav-link{
+		margin-left: 70px;
+	}
+}
+.form-control{
+	width: 350px;
+}
+.form-control-2{
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.25rem;
+    width: 250px;
+    position: absolute;
+    bottom: 3px;
+    left: 260px;
+    border: 1px solid black;
+}
+.form-control-3{
+    width: 75px;
+    position: absolute;
+    bottom: 3px;
+    left: 580px;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+}
+.form-control-4{
+    width: 75px;
+    position: absolute;
+    bottom: 3px;
+    left: 660px;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.deep{
+	text-transform: uppercase;
+	font-size: 120px;
+	color: white;
+	text-align: center;
+	font-family: 'Chilanka', cursive;
+}
+.deep1{
+	text-transform: uppercase;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	font-family: 'Chilanka', cursive;
+}
+.breath{
+	text-transform: uppercase;
+	font-size: 110px;
+	color: white;
+	text-align: center;
+	font-family: 'Chilanka', cursive;
+	margin-bottom: 40px;
+}
+.breath1{
+	text-transform: uppercase;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	font-family: 'Chilanka', cursive;
+	margin-bottom: 167px;
+}
+.content{
+	height: 100px;
+	margin-bottom: 100px;
+}
+.h3{
+	font-size: 35px;
+	font-family: 'Chilanka', cursive;
+	position: absolute;
+	top: 20px;
+	left: 70px;
+}
+.main-box{
+	width: 1100px;
+	height: 600px;
+	opacity: 0.8;
+}
+.text-p{
+	font-size: 18px;
+	position: absolute;
+	top: 130px;
+	left: 50px;
+	width: 400px;
+	font-family: 'Montserrat', sans-serif;
+}
+.text-p2{
+	position: absolute;
+	top: 220px;
+	left: 50px;
+	width: 400px;
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+.box-2{
+	margin-left: 150px;
+	margin-top: 100px;
+}
+@media(max-width: 992px){
+	.deep{
+		font-size: 65px;
+	}
+	.breath{
+		font-size: 65px;
+	}
+	.footer{
+		background-color: white;
+	}
+}
+.picture{
+	width: 550px;
+	height: 300px;
+}
+.line{
+	width: 100%;
+	height: 10px;
+	background-color: white;
+}
+.line1{
+	border: 0.8px solid white;
+}
+.rooms-h3{
+	font-family: 'Chilanka', cursive;
+	margin-bottom: 25px;
+	margin-left: 90px;
+}
+.rooms-box{
+	margin-bottom: 20px;
+}
+.rooms-form{
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.rooms-p{
+	font-family: 'Montserrat', sans-serif;
+	padding-left: 70px;
+	padding-right: 70px;
+	margin-top: 20px;
+}
+.our-rooms{
+	font-family: 'Mansalva', cursive;
+	margin-top: 80px;
+}
+.size1{
+	margin-top: 40px;
+}
+.exspensive-room{
+	font-family: 'Mansalva', cursive;
+}
+.exspensive-p{
+	margin-bottom: 2px;
+}
+.more-info{
+	width: 100px;
+	height: 50px;
+	font-size: 15px;
+	padding-left: 13px;
+}
+@media(max-width: 767px){
+	.size-2{
+		display: none;
+	}
+}
+.other-services{
+	font-size: 50px;
+}
+.hotel-pic{
+	width: 150px;
+	height: 110px;
+}
+.size-2{
+	height: 150px;
+	margin-top: 35px;
+}
+.size-3{
+	height: 556px;
+	margin-bottom: 108px;
+	opacity: 0.8;
+}
+.restaurant-p{
+	font-family: 'Mansalva', cursive;
+}
+.the-restaurant{
+	font-family: 'Chilanka', cursive;
+	padding-top: 35px;
+	padding-left: 60px;
+	text-align: left;
+}
+.size-6{
+	margin-top: 158px;
+}
+.size7{
+	margin-right: 140px;
+}
+.footer-p{
+	margin-right: 100px;
+}
+.footer-h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	margin-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.footer-box{
+	width: 200px;
+}
+.axali{
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	font-family: 'Chilanka', cursive;	
+}
+.moxda{
+	width: 450px;
+	height: 310px;
+	margin-right: 20px;
+	margin-bottom: 40px;
+}
+.surati{
+	width: 150px;
+	height: 150px;
+}
+.down-5{
+	height: 192px;
+	margin-top: 10px;
+	margin-bottom: 49px;
+}
+.room-box{
+	width: 230px;
+	height: 140px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+}
+.rooms{
+	width: 200px;
+	height: 120px;
+}
+.margin{
+	margin-left: 100px;
+}
+.padding-left{
+	padding-left: 30px;
+	padding-right: 15px;
+	border-bottom: 3px solid lightblue;
+}
+.down{
+	margin-top: 20px;
+}
+.down1{
+	margin-bottom: 92px;
+	opacity: 0.9;
+}
+.size20{
+	width: 50%;
+	height: 50%;
+}
+.right{
+	font-size: 30px;
+	font-family: 'Mansalva', cursive;
+	color: brown;
+}
+.contact-h1{
+	text-align: center;
+	font-family: 'Mansalva', cursive;
+	font-size: 30px;
+	border-bottom: 1px solid black;
+}
+.contact-p1{
+	font-size: 18px;
+	text-align: center;
+}
+.type-text{
+	width: 450px;
+	height: 150px;
+}
+.underline{
+	border-bottom: 1px solid black;
+}
+.contact-form{
+	margin-top: 20px;
+	padding-bottom: 74px;
+	padding-top: 50px;
+}
+.size20{
+	width: 250px;
+	height: 270px;
+	margin-bottom: 10px;
+}
+.size-21{
+	padding-top: 30px; 
+}
+.between{
+	margin-top: 3px;
+}
+@media(max-width: 1199px){
+	.room-box{
+		width: 180px;
+		margin-left: 0;
+	}
+	.size20{
+		width: 150px;
+	}
+	.nav-link{
+		margin-left: 60px;
+	}
+	.contact-h1{
+		font-size: 12px;
+	}
+}
+@media(max-width: 991px){
+	.room-box{
+		width: 130px;
+		height: 100px;
+		margin-left: 0;
+	}
+	.nav-link{
+		margin-left: 25px;
+	}
+	.footer{
+		background-color: white;
+	}
+}
+@media(max-width: 768px){
+	.moxda{
+		display: none;
+	}
+	.size20{
+		width: 100px;
+		height: 60px;
+	}
+	.nav-link{
+		margin-left: 0;
+	}
+}
+@media(max-width: 550px){
+	.resp{
+		display: none;
+	}
+	.room-box{
+		width: 250px;
+		height: 130px;
+	}
+}
+@media(max-width: 536px){
+	.resp1{
+		display: none;
+	}
+	.nav-link{
+		margin-left: 50px;
+	}
+}
+@media(max-width: 536px){
+	.nav-link{
+		margin-left: 100px;
+	}
+}
+@media(max-width: 505px){
+	.nav-link{
+		margin-right: 50px;
+	}
+	.contact-form{
+
+	}
+}
